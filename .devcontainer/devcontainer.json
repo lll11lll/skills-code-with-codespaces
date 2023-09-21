@@ -1,4 +1,4 @@
-{ 
+{
   // Name the config
   "name": "Codespace Learning",
   // Use the base codespacer image
@@ -9,15 +9,15 @@
 
   // Add the IDs of extensions you want installed when the cont ins created 
   "customizations": {
-      "vscode": {
-          "extensions": [
-              "Github.copilot"
-          ]
-      },
-      "codespaces": {
-          "openFiles": [
-              "codespace.md"
-          ]
-      }  
+    "vscode": {
+        "extensions": [
+            "Github.copilot"
+        ]
+    },
+    "codespaces": {
+        "openFiles": [
+            "codespace.md"
+            ]
+        } 
+    }
 }
-
