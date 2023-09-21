@@ -1,0 +1,10 @@
+{ 
+  // Name the config
+  "name": "Codespace Learning",
+  // Use the base codespacer image
+  "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
+
+  "remoteUser": "codespace",
+  "overrideCommand": false
+}
+
